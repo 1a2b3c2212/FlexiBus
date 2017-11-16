@@ -23,6 +23,8 @@ library(forecast)
 # import all the helper functions
 source(file.path("helper", "helper_functions.R"),  local = TRUE)$value
 
+## Testing commit
+
 #######################################
 ##### Initialize global variables #####
 #######################################
